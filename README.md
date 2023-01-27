@@ -7,12 +7,17 @@
 ## Visualizations:
 
 #### 1. Elbow Curve
+<img width="558" alt="elbow_curve" src="https://user-images.githubusercontent.com/108249510/215032262-9d2516c5-7a4f-48c4-86a7-51aeafe1d762.png">
+
 
 #### 2. 3D Scatter Plot
+<img width="628" alt="3D_scatter" src="https://user-images.githubusercontent.com/108249510/215032292-3494f4b9-23a8-41e9-b72d-513e2e8f151a.png">
 
 #### 3. Hvplot Table
+<img width="759" alt="hvplot_table" src="https://user-images.githubusercontent.com/108249510/215032307-109a4b40-5338-4577-9c92-a000ce0940d2.png">
 
 #### 4. 2D Scatter Plot
+<img width="594" alt="2D_scatter" src="https://user-images.githubusercontent.com/108249510/215032319-38d9f676-24ce-471d-bb85-497d549ddb05.png">
 
 ## Summary: 
 
